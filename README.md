@@ -1,6 +1,8 @@
 # Arc-Launcher
 Arc Browser Launcher for Windows 11 to workaround fail to launch issue
 
+There is an exe and a batch file version for those who get false positives on the exe.
+
 On Windows 11 Arc fails to launch afetr the 1st run, this launcher will upon each runtime: 
 Get your system username and truncate it to the new 5 character win11 standard.
 Clear the offending cache files preventing launch.
