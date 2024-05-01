@@ -11,3 +11,5 @@ Please note it will leave a terminal window open until arc is closed, a compile 
 No flags, no wildcards, no bells or whistles supplied as is with no support, if it works for you, it work's if it doesn't please don't ask for support.
 
 Feel free to use the issue page for leaving thanks.
+
+May show false positives in virus total - a well documented issue on bat to exe compilers
